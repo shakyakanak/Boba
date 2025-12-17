@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(245, 178, 97);
+    text-align: center;
+    text-decoration-color: rgb(155, 54, 54);
+    text-size-adjust: inherit;
+
+
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-display: fallback;
+}
